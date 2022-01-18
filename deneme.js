@@ -1,4 +1,5 @@
 /* ilk comment */
-bir branch oluşturmalıyım
+/*bir branch oluşturmalıyım
 bu da ikinci satır
 branch satırı
+*/
